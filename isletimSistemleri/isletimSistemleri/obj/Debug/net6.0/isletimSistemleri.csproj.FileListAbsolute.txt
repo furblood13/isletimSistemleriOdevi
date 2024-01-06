@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\bin\Debug\net6.0\isletimSistemleri.exe
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\bin\Debug\net6.0\isletimSistemleri.deps.json
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\bin\Debug\net6.0\isletimSistemleri.runtimeconfig.json
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\bin\Debug\net6.0\isletimSistemleri.dll
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\bin\Debug\net6.0\isletimSistemleri.pdb
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.AssemblyInfo.cs
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.dll
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\refint\isletimSistemleri.dll
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.pdb
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\isletimSistemleri.genruntimeconfig.cache
+C:\Users\furka\source\repos\isletimSistemleri\isletimSistemleri\obj\Debug\net6.0\ref\isletimSistemleri.dll
